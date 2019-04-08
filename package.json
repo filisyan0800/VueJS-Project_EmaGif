@@ -1,8 +1,8 @@
 {
-  "name": "vue-example-app",
+  "name": "vue-emagif-app",
   "version": "1.0.0",
-  "description": "Example application",
-  "author": "andras.fincza@emarsys.com",
+  "description": "vue application",
+  "author": "tarasabcdef@gmail.com",
   "private": true,
   "license": "",
   "scripts": {
