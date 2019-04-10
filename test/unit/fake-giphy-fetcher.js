@@ -7,8 +7,5 @@ export default class FakeGiphyFetcher {
     fakeGiphyFetcher.searchFor = sinon.stub();
     return fakeGiphyFetcher;
   }
-  static delete() {
-    exit();
-  }
 
 }
