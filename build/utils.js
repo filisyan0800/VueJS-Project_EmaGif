@@ -79,7 +79,7 @@ exports.styleLoaders = function (options) {
     })
   }
 
-  return output
+  return output;
 }
 
 exports.createNotifierCallback = () => {
